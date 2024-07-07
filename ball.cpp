@@ -1,7 +1,7 @@
 #include <iostream>
 #include <QSize>
 #include "ball.h"
-#include "Ball.h"
+
 
 // Конструктор по умолчанию
 Ball::Ball() {
